@@ -11,5 +11,4 @@ COPY requirements.txt requirements.txt
 
 RUN mamba install -c conda-forge gdal=3.8.4 -y &&\
     pip install -r requirements.txt &&\
-    pre-commit install &&\
-    git config --global credential.helper store
+    pre-commit install
