@@ -10,5 +10,4 @@ ENV MLFLOW_ENABLE_ARTIFACTS_PROGRESS_BAR=false
 COPY requirements.txt requirements.txt
 
 RUN mamba install -c conda-forge gdal=3.8.4 -y &&\
-    pip install -r requirements.txt &&\
-    pre-commit install
+    pip install -r requirements.txt
