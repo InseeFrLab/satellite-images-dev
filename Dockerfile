@@ -1,4 +1,4 @@
-FROM inseefrlab/onyxia-python-pytorch:py3.11.6
+FROM inseefrlab/onyxia-vscode-pytorch:py3.11.6
 
 ENV PROJ_LIB=/opt/mamba/share/proj
 ENV AWS_S3_ENDPOINT=minio.lab.sspcloud.fr
