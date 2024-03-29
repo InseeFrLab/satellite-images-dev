@@ -17,3 +17,4 @@ geopandas==0.14.3
 scipy==1.12.0
 evaluate==0.4.1
 geopandas==0.14.3
+libpysal==4.10
