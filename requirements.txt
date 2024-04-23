@@ -11,7 +11,7 @@ uvicorn==0.29.0
 pytorch_lightning==2.2.3
 astrovision==0.13.1
 albumentations==1.4.4
-transformers==4.40.0
+transformers==4.40.1
 torchvision==0.17.2
 geopandas==0.14.3
 scipy==1.13.0
