@@ -17,3 +17,4 @@ geopandas==1.0.0
 scipy==1.14.0
 evaluate==0.4.2
 libpysal==4.11.0
+pqdm==0.2.0
