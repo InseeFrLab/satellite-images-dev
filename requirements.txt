@@ -13,8 +13,7 @@ astrovision==0.13.2
 albumentations==1.4.10
 transformers==4.41.2
 torchvision==0.18.1
-geopandas==0.14.4
+geopandas==1.0.0
 scipy==1.14.0
 evaluate==0.4.2
-geopandas==0.14.4
 libpysal==4.11.0
