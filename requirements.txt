@@ -7,7 +7,7 @@ s3fs==2024.9.0
 ruff==0.6.8
 pre-commit==3.8.0
 boto3==1.35.23
-uvicorn==0.30.6
+uvicorn==0.31.0
 pytorch_lightning==2.4.0
 astrovision==0.13.2
 albumentations==1.4.17
