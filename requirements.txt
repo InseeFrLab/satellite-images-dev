@@ -10,7 +10,7 @@ boto3==1.35.23
 uvicorn==0.31.0
 pytorch_lightning==2.4.0
 astrovision==0.13.2
-albumentations==1.4.17
+albumentations==1.4.18
 transformers==4.45.2
 torchvision==0.19.1
 geopandas==1.0.1
