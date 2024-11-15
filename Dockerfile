@@ -1,6 +1,6 @@
 FROM inseefrlab/onyxia-vscode-pytorch:py3.12.3
 
-ENV PROJ_LIB=/opt/mamba/share/proj
+ENV PROJ_LIB=/opt/conda/share/proj
 ENV AWS_S3_ENDPOINT=minio.lab.sspcloud.fr
 ENV AWS_DEFAULT_REGION=us-east-1
 ENV MLFLOW_S3_ENDPOINT_URL=https://minio.lab.sspcloud.fr
