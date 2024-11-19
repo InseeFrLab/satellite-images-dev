@@ -1,4 +1,4 @@
-FROM inseefrlab/onyxia-vscode-pytorch:py3.12.3
+FROM inseefrlab/onyxia-vscode-pytorch:py3.12.6
 
 ENV PROJ_LIB=/opt/conda/share/proj
 ENV AWS_S3_ENDPOINT=minio.lab.sspcloud.fr
